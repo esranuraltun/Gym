@@ -1,0 +1,168 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+#footer .bi{
+    color: #393939;
+    font-size: 24px;
+    text-decoration: none;
+}
+.py-20{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.py-30{
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+.py-25{
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+#footer .bi-dot{
+    font-size: 17px;
+}
+#iletisimBanner{
+    background-image: url(../img/iletisim-banner-1500x696.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+#yasamBanner{
+    background-image: url(../img/yasam-banner-1500x700.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+#yasamIcerik a,
+#uykuBanner a,
+#metabolizmaBanner a,
+#kafeinBanner a,
+#yuruyusBanner a,
+#beslenmeBanner a,
+#sporBanner a,
+#sporIcerik a,
+#sporIcerik a,
+#uykuIcerik a,
+#kafeinIcerik a,
+#metabolizmaIcerik a,
+#yuruyusIcerik a,
+#beslenmeIcerik a,
+#indexhaberTanitim a
+{
+    text-decoration: none;
+    color: #393939;
+}
+#uykuBanner,
+#metabolizmaBanner,
+#kafeinBanner,
+#yuruyusBanner,
+#beslenmeBanner,
+#sporBanner,
+#Info{
+    background-image: url(../img/arkaplan-dolgu-1500x844.webp);
+  background-size: cover;
+}
+.mt-7{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+#sporIcerik .bi,
+#uykuIcerik .bi,
+#kafeinIcerik .bi,
+#metabolizmaIcerik .bi,
+#yuruyusIcerik .bi,
+#beslenmeIcerik .bi,
+#iletisimIcerik .bi
+{
+    font-size: 35px;
+    color: #393939;
+}
+.mt-13{
+    margin-top: 130px;
+    margin-bottom: 130px;
+ }
+ #uyelikBanner{
+    background-image: url(../img/uyelik-banner-1500x672.webp);
+ }
+ #uyelikIcerik .card:hover{
+    box-shadow: 1px 1px 20px 10px rgba(0, 0, 0, 0.5);
+    border: none;
+    transition: 1.7s;
+}
+
+#indexIcerik,
+#indexhaberTanitim,
+#kuluplerimiz,
+#egitmenlerimiz,
+#iletisimForm{
+    background-color: #393939;
+}
+#indexIcerik .card:hover,
+#indexhaberTanitim .card:hover{
+    box-shadow: 1px 1px 20px 10px rgba(241, 237, 237, 0.986);
+    border: none;
+    transition: 1.7s;
+}
+#Info{
+    background-attachment: fixed;
+}
+#anasayfaBanner{
+    background-image: url(../img/anasayfa-banner.gif);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+}
+#indexTanitim .img-fluid,
+#pilatesIcerik .img-fluid,
+#fitnessIcerik .img-fluid,
+#kickboksIcerik .img-fluid,
+#kulubumuzIcerik .img-fluid,
+#egitmenlerimiz .img-fluid
+{
+    border-radius: 40%;
+}
+#fitnessBanner{
+    background-image: url(../img/fitness.gif);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+}
+#pilatesBanner{
+    background-image: url(../img/pilates.gif);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+}
+#kickboksBanner{
+    background-image: url(../img/kick-boks-banner.gif);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+}
+#kulubumuzBanner{
+    background-image: url(../img/kulubumuz-banner.gif);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+}
+#iletisimIcerik a{
+    text-decoration: none;
+    color: #393939;
+}
+#iletisimIcerik .card:hover{
+    box-shadow: 1px 1px 20px 10px rgba(5, 5, 5, 0.986);
+    border: none;
+    transition: 1.7s;
+}
+#iletisimForm a{
+    color: #fff;
+    text-decoration: none;
+}
